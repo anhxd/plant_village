@@ -1,1 +1,1 @@
-# repo comtaining code for recent ml lab
+# repo containing code for recent ml lab
