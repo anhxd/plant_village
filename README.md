@@ -1,1 +1,1 @@
-# plant_village
+# repo comtaining code for recent ml lab
